@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "1627a3b5aef46dcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e558192c222696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "288a775c8700bbc6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32ea83830ca58a5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4ae933a210e1e92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "531a82bb71df2c15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3af979781f6e71d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7537bc6e879d9cba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce00af49ee8040fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb9099c03929ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f0628bffe2aaa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aac9fd690b9f7355",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "157b9c28323a5814",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bedaadae5610760",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce8dab71c34210f7",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "531a82bb71df2c15",
+  "lastOpenFiles": [
+    "Philips Pattern.md",
+    "School avoidance.md",
+    "philips_pattern.png",
+    "No fish completions for dnf5.md",
+    "Forgetting the purpose.md",
+    "Swhkd crashes when modifier released first.md",
+    "Matt switched back to bash.md",
+    "FydeOS's advertisement.md",
+    "Evolution of AI voice changer.md",
+    "Feelings on Linux YouTubers.md",
+    "Haiku window management.md",
+    "Obsidian+fcitx5.md",
+    "安田现象.md",
+    "OneUI 6 first impression.md",
+    "Templates/daily.md",
+    "Templates/casual.md",
+    "Daily/2023-08-13.md",
+    "Linux YouTubers Hate Wayland.md",
+    "Want to try out rime.md",
+    "Templates/literature.md",
+    "Others' habits.md",
+    "Research Question -- Sculpture.md",
+    "Templates/permanent.md",
+    "Templates/reminder.md",
+    "Templates/fleeting.md",
+    "Daily",
+    "Templates",
+    "Permenant",
+    "Literature",
+    "Fleeting",
+    "Untitled.canvas"
+  ]
+}
